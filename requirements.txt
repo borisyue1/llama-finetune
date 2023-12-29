@@ -1,0 +1,6 @@
+accelerate==0.25.0
+bitsandbytes==0.41.3.post2
+SciPy==1.11.4
+--find-links https://download.pytorch.org/whl/cu121/torch_stable.html
+torch==2.1.2+cu121
+transformers==4.36.2
