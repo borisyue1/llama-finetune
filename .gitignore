@@ -2,3 +2,4 @@ venv
 data/*
 !data/essentia_labels.json
 models
+results

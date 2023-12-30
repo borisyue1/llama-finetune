@@ -3,6 +3,7 @@ bitsandbytes==0.41.3.post2
 datasets[audio]==2.16.0
 essentia-tensorflow==2.1b6.dev1110
 librosa==0.10.1
+rich==13.7.0
 SciPy==1.11.4
 --find-links https://download.pytorch.org/whl/cu121/torch_stable.html
 torch==2.1.2+cu121
